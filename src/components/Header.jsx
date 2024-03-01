@@ -18,7 +18,7 @@ function Header() {
                                 textDecoration: 'none',
                             }}
                         >
-                            React-Starter
+                            Sound-Starter
                         </Typography>
                     </Typography>
                     <Button color="inherit" variant="text" component={Link} to="/">
